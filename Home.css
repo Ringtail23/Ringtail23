@@ -1,0 +1,117 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 746px;
+}
+
+.u-section-1 .u-group-1 {
+  margin-top: 66px;
+  margin-bottom: 60px;
+  background-image: none;
+  min-height: 614px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 18px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 566px;
+  height: 566px;
+  background-image: url("images/Donuts.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.2;
+  font-size: 6rem;
+  font-family: Amita;
+  font-weight: 700;
+  margin: -455px 34px 0 613px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 18px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+    width: auto;
+    margin-top: -441px;
+    margin-right: 18px;
+    margin-left: 616px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    min-height: 505px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 421px;
+    height: 421px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -339px;
+    margin-right: 0;
+    margin-left: 453px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 333px;
+    height: 333px;
+    margin-top: 16px;
+    margin-left: 8px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: -267px;
+    margin-right: 16px;
+    margin-left: 365px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 60px;
+    min-height: 478px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 23px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.1875rem;
+    margin-top: 36px;
+    margin-right: 11px;
+    margin-left: 23px;
+  }
+}
