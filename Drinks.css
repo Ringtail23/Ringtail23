@@ -258,7 +258,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 370px;
+    min-height: 500px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -287,7 +287,7 @@
     width: 121px;
     height: 121px;
     margin-top: 15px;
-    margin-left: 67px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-3 {
